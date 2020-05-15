@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="270" height="206" src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/logo_resized.png" alt="LOGO-temp" title="LOGO-temp">  <br>
+<img width="270" height="206" src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/logo_resized.png" alt="LOGO-temp" title="LOGO-temp">  <br>
 
   <a href="https://twitter.com/kuclubdtk">
     <img src="https://img.shields.io/twitter/follow/kuclubdtk?label=Follow%20us%20%21%21&style=social" alt="Twitter">
@@ -22,6 +22,9 @@
 - [コーディングソフトの導入](#コーディングソフトの導入)  
 
 - [コードフォルダの目次](#コードフォルダの目次)  
+
+
+※「はじめに」と「プログラミングをする上で大事なこととは」は[YouTube](https://gist.github.com/kudtk/62c8c7b2f2181141ee51d5cfd4670ccd)にて解説動画を出しています。  
 
 -----
 
@@ -165,7 +168,7 @@ work0 \~ work3, work6はそれぞれcode0 \~ code3, code6の課題ファイル�
 -----  
 # ライセンス  
 
-ここに載っているコード等はすべて[MIT LICENSE](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/LICENSE)の下保護されています。
+ここに載っているコード等はすべて[MIT LICENSE](https://github.com/DTK-CreativeStudio/Course/blob/master/LICENSE)の下保護されています。
 
 -----
 # 参照  
@@ -184,7 +187,7 @@ work0 \~ work3, work6はそれぞれcode0 \~ code3, code6の課題ファイル�
 
 [EMOJI CHART SHEET](https://www.webfx.com/tools/emoji-cheat-sheet/)  
 
-[]()  
+[GitHub-Cheat-Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)  
 
 -----
 

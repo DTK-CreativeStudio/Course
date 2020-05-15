@@ -42,10 +42,10 @@ scanf("%d",a); //これでキーボードから値を入力できるようにな
 ここでは「**if文**」（「条件分岐の構文」）というものを扱います。これで条件に応じた処理をさせることができます。  
 例えば、もし、入力された数字が5以下であれば、ターミナルに「5以下」と表示し、その他(5より大きい値)であれば、「5より大きい」と表示するといった具合です。  
 このようにコードを書きます。  
-<img height=187 width=592 src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/C/ifelse.png" alt="C言語" title="C言語">
+<img height=187 width=592 src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/C/ifelse.png" alt="C言語" title="C言語">
 
 #### program2のフローチャート(説明図)  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/FLOWCHART.md#program2のフローチャート)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/FLOWCHART.md#program2のフローチャート)にあります。  
 
 
 ## program3   
@@ -55,7 +55,7 @@ scanf("%d",a); //これでキーボードから値を入力できるようにな
 
 このように書きます。  
 
-<img height=167 width=462 src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/C/for_while.png" alt="Python" title="Python">
+<img height=167 width=462 src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/C/for_while.png" alt="Python" title="Python">
 
 ここで注意していただきたいのですが、for文では、その回数分ループ変数に数値が代入されていきます。  
 ループ変数に代入される数値は、<b>0,1,2,3,4, ...という様に`0`から始まります。</b>  
@@ -63,7 +63,7 @@ scanf("%d",a); //これでキーボードから値を入力できるようにな
 <u>よって回数をnとすると、ループ変数に代入される値は、0~n-1となります。</u>
 
 #### program3のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/FLOWCHART.md#program3のフローチャート)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/FLOWCHART.md#program3のフローチャート)にあります。  
 
 
 ## program4_1  
@@ -74,7 +74,7 @@ scanf("%d",a); //これでキーボードから値を入力できるようにな
 
 
 #### program4_1のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/FLOWCHART.md#program4_1のフローチャート)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/FLOWCHART.md#program4_1のフローチャート)にあります。  
 
 ## program4_2  
 無限ループで使用できるものを紹介します。
@@ -102,12 +102,12 @@ if
 
 6
 #### program4_2のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/FLOWCHART.md#program4_2のフローチャート)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/FLOWCHART.md#program4_2のフローチャート)にあります。  
 
 ## program5  
 
 #### program5のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/FLOWCHART.md#program5のフローチャート)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/FLOWCHART.md#program5のフローチャート)にあります。  
 
 ## program6  
 ### 配列  

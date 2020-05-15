@@ -29,10 +29,10 @@
 例えば、もし、入力された数字が5以下であれば、ターミナルに「5以下」と表示し、その他(5より大きい値)であれば、「5より大きい」と表示するといった具合です。  
 
 このようにコードを書きます。  
-<img height=187 width=451 src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/Python/python_if.png" alt="Python" title="Python">  
+<img height=187 width=451 src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/Python/python_if.png" alt="Python" title="Python">  
 
 #### program2のフローチャート(説明図)  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/FLOWCHART.md)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/FLOWCHART.md)にあります。  
 
 
 ## program3   
@@ -42,7 +42,7 @@
 
 このように書きます。  
 
-<img height=107 width=592 src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/Python/python_while-for.png" alt="Python" title="Python">
+<img height=107 width=592 src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/Python/python_while-for.png" alt="Python" title="Python">
 
 ここで注意していただきたいのですが、for文では、その回数分ループ変数に数値が代入されていきます。  
 ループ変数に代入される数値は、<b>0,1,2,3,4, ...という様に`0`から始まります。</b>  
@@ -50,7 +50,7 @@
 <u>よって回数をnとすると、ループ変数に代入される値は、0~n-1となります。</u>
 
 #### program3のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/FLOWCHART.md)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/FLOWCHART.md)にあります。  
 
 
 ## program4_1  
@@ -61,7 +61,7 @@
 
 
 #### program4_1のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/FLOWCHART.md)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/FLOWCHART.md)にあります。  
 
 ## program4_2  
 無限ループで使用できるものを紹介します。
@@ -89,12 +89,12 @@ if
 
 
 #### program4_2のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/FLOWCHART.md)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/FLOWCHART.md)にあります。  
 
 ## program5  
 
 #### program5のフローチャート  
-[ここ](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/FLOWCHART.md)にあります。  
+[ここ](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/FLOWCHART.md)にあります。  
 
 ## program6  
 ### リスト  
@@ -103,13 +103,13 @@ if
 そこで役立つ**リスト**という1つの変数にたくさんのデータ(値)をまとめられる機能を紹介します。  
 リストに代入された数値を**要素**といい、順番は0番目から順に始まっていきます。   
 例)list_aというリストに順に`0`, `1`, `2`, `3`, `4`と代入していくと、リストの0番目に0が、0番目に1が...　という様になります。  
-<img src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/Python/python_list_1.png" alt="Python" title="Python">
+<img src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/Python/python_list_1.png" alt="Python" title="Python">
 
 ## program7  
 ### 2次元のリスト  
 ここではリストの中にリストが入っている、2次元のリストというものを紹介します。  
  
-<img src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/Python/python_list_2.png" alt="Python" title="Python">  
+<img src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/Python/python_list_2.png" alt="Python" title="Python">  
 
 上の表で、列番号をn、行番号をmとすると、  
 ```python
@@ -122,7 +122,7 @@ list_a[0][0]=1, list_a[0][1]=2, ... ,list_a[n][m]
 また、リストはfor文と組み合わせることができ、以下のように書きます。  
 これはリストに要素がある限りループし、その都度、要素変数にリストの要素を順に代入していくというものです。
 
-<img src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/Python/python_list_for.png" alt="Python" title="Python">   
+<img src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/Python/python_list_for.png" alt="Python" title="Python">   
 
 例)
 ```python
@@ -178,7 +178,7 @@ var1 = 3, var2 = 4
 ```
 一番下の行を見てください。`calculate1(a, b)`というものがありますよね。  
 これが「**関数の呼び出し**」と呼ばれるもので、ここで関数の処理をさせています。()のなかに(計算させたい)引数を入れることで引数を使った計算をさせることができ、あらかじめ宣言した変数であれば、どのような変数でも関数の中に入れることができます。  
-<img src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/Python/python_def_no_return.png" alt="flowchart" title="flowchart">  
+<img src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/Python/python_def_no_return.png" alt="flowchart" title="flowchart">  
 上のプログラムでは`def calculate1(var1, var2)`の`val1`と`val2`はそれぞれ`a`と`b`, `b`と`c`が対応しており、上のように変数値に代入されている値が代入されます。  
 値が代入された後は関数の中に書かれている処理が行われます。  
   

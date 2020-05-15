@@ -24,7 +24,7 @@
     - [目次](#目次)  
     - [進め方](#進め方)  
 
-- [プログラムごとの解説](https://github.com/Kuclubdtk-Lecture/Lecture/tree/master/C/Basic)  
+- [プログラムごとの解説](https://github.com/DTK-CreativeStudio/Course/tree/master/C/Basic)  
 
 -----
 
@@ -183,17 +183,17 @@ char a="C";
 
 # カリキュラム
 ## 目次
-[program0](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program0.cpp):　プログラミングにおける基本事項、注意事項    
-[program1](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program1.cpp):　足し算、引き算、掛算、割り算、割り算の余り  
-[program2](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program2.cpp):　if文  
-[program3](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program3.cpp):　ループ(有限)  
-[program4](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program4.cpp):　ループ(無限, break, continue)  
-[program5](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program5.cpp):　多重ループ    
-[program6](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program6.cpp):　配列  
-[program7](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program7.cpp):　2次元配列  
-[program8](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program8.cpp):　関数の作成(1)   
-[program9](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program9.cpp):　関数の作成(2)   
-[program10](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/C/Basic/program_last.cpp):　構造体  
+[program0](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program0.cpp):　プログラミングにおける基本事項、注意事項    
+[program1](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program1.cpp):　足し算、引き算、掛算、割り算、割り算の余り  
+[program2](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program2.cpp):　if文  
+[program3](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program3.cpp):　ループ(有限)  
+[program4](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program4.cpp):　ループ(無限, break, continue)  
+[program5](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program5.cpp):　多重ループ    
+[program6](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program6.cpp):　配列  
+[program7](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program7.cpp):　2次元配列  
+[program8](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program8.cpp):　関数の作成(1)   
+[program9](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program9.cpp):　関数の作成(2)   
+[program10](https://github.com/DTK-CreativeStudio/Course/blob/master/C/Basic/program_last.cpp):　構造体  
 
 work0 \~ work10はそれぞれprogram0 \~ program10の課題ファイルです。
 
@@ -201,7 +201,7 @@ work0 \~ work10はそれぞれprogram0 \~ program10の課題ファイルです�
 ## 進め方
 基本各自で進めてもらいます。
 
-これまで扱った内容が上の<b>[Basic](https://github.com/Kuclubdtk-Lecture/Lecture/tree/master/C/Basic)フォルダーのprogram0</b>の内容となっています。  
+これまで扱った内容が上の<b>[Basic](https://github.com/DTK-CreativeStudio/Course/tree/master/C/Basic)フォルダーのprogram0</b>の内容となっています。  
 program0のファイルを見てください。  
 下の方に課題が書いてあると思うので、自身で新しいファイルを作成して、そのお題のプログラムを書いてみてください。  
 終わったらworkファイルを開き、私の解答と見比べて答え合わせをしてみてください。  
@@ -217,7 +217,7 @@ program2 → work2
 &emsp;&emsp;...  
     という感じです。
 
-#### [Basic](https://github.com/Kuclubdtk-Lecture/Lecture/tree/master/C/Basic)フォルダーの下の方に(README.md)解説があるので、適宜見てください。
+#### [Basic](https://github.com/DTK-CreativeStudio/Course/tree/master/C/Basic)フォルダーの下の方に(README.md)解説があるので、適宜見てください。
 
 
 ※**プログラムは初心者の方なら見ただけでわからないことが多いと思いますが、一回書いてみて、プログラムを実行してもらうとおそらく理解ができると思うので、そうしてみてください。**

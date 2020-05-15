@@ -25,7 +25,7 @@
     - [目次](#目次)  
     - [進め方](#進め方)  
 
-- [プログラムごとの解説](https://github.com/Kuclubdtk-Lecture/Lecture/tree/master/Python/Basic)  
+- [プログラムごとの解説](https://github.com/DTK-CreativeStudio/Course/tree/master/Python/Basic)  
 
 -----
 
@@ -35,7 +35,7 @@
 - 1行で様々な処理を実行可能
 - 多言語と比べ、書き方(構文)がシンプル
 - 様々な機能を持ったライブラリ(拡張プログラム)が豊富に存在している。
-- オブジェクト指向である(これについては[Basic](https://github.com/Kuclubdtk-Lecture/Lecture/tree/master/Python/Basic)フォルダーで説明します。)
+- オブジェクト指向である(これについては[Basic](https://github.com/DTK-CreativeStudio/Course/tree/master/Python/Basic)フォルダーで説明します。)
 
 ## Pythonの用途
 - 算術計算系
@@ -188,7 +188,7 @@ print("a="+a)
 では、実行してみてください。
 ここで以下のようなエラーが発生します。  
 
-<img height=100 width=560 src="https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/image/Python/Python_error.png" alt="Python_error" title="Python_error">
+<img height=100 width=560 src="https://github.com/DTK-CreativeStudio/Course/blob/master/image/Python/Python_error.png" alt="Python_error" title="Python_error">
 
 `TypeError: can only concatenate str(not "int") to str`  
 〔str()同士しか連結させることができないよ、str()とint()は連結させることができないよって書いてあります。〕  
@@ -209,17 +209,17 @@ a=3
 
 # カリキュラム
 ## 目次
-[program0](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program0.py):　プログラミングにおける基本事項、注意事項    
-[program1](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program1.py):　足し算、引き算、掛算、割り算、割り算の余り  
-[program2](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program2.py):　if文  
-[program3](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program3.py):　ループ(有限)  
-[program4](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program4.py):　ループ(無限, break, continue)  
-[program5](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program5.py):　多重ループ    
-[program6](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program6.py):　リスト  
-[program7](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program7.py):　2次元配列  
-[program8](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program8.py):　関数の作成(1) 〔返り値なし〕  
-[program9](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program9.py):　関数の作成(2) 〔返り値あり〕  
-[program_last](https://github.com/Kuclubdtk-Lecture/Lecture/blob/master/Python/Basic/program_last.py):　クラス  
+[program0](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program0.py):　プログラミングにおける基本事項、注意事項    
+[program1](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program1.py):　足し算、引き算、掛算、割り算、割り算の余り  
+[program2](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program2.py):　if文  
+[program3](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program3.py):　ループ(有限)  
+[program4](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program4.py):　ループ(無限, break, continue)  
+[program5](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program5.py):　多重ループ    
+[program6](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program6.py):　リスト  
+[program7](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program7.py):　2次元配列  
+[program8](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program8.py):　関数の作成(1) 〔返り値なし〕  
+[program9](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program9.py):　関数の作成(2) 〔返り値あり〕  
+[program_last](https://github.com/DTK-CreativeStudio/Course/blob/master/Python/Basic/program_last.py):　クラス  
 
 work0 \~ work_lastはそれぞれprogram0 \~ program_lastの課題ファイルです。
 
@@ -227,7 +227,7 @@ work0 \~ work_lastはそれぞれprogram0 \~ program_lastの課題ファイル�
 ## 進め方
 基本各自で進めてもらいます。
 
-これまで扱った内容が上の<b>[Basic](https://github.com/Kuclubdtk-Lecture/Lecture/tree/master/python/Basic)フォルダーのprogram0</b>の内容となっています。  
+これまで扱った内容が上の<b>[Basic](https://github.com/DTK-CreativeStudio/Course/tree/master/python/Basic)フォルダーのprogram0</b>の内容となっています。  
 program0のファイルを見てください。  
 下の方に課題が書いてあると思うので、自身で新しいファイルを作成して、そのお題のプログラムを書いてみてください。  
 終わったらworkファイルを開き、私の解答と見比べて答え合わせをしてみてください。  
@@ -243,7 +243,7 @@ program2 → work2
 &emsp;&emsp;...  
     という感じです。
 
-#### [Basic](https://github.com/Kuclubdtk-Lecture/Lecture/tree/master/python/Basic)フォルダーの下の方に(README.md)解説があるので、適宜見てください。
+#### [Basic](https://github.com/DTK-CreativeStudio/Course/tree/master/python/Basic)フォルダーの下の方に(README.md)解説があるので、適宜見てください。
 
 
 ※**プログラムは初心者の方なら見ただけでわからないことが多いと思いますが、一回書いてみて、プログラムを実行してもらうとおそらく理解ができると思うので、そうしてみてください。**
