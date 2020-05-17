@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FKuclubdtk-Lecture%2FLecture" alt="Twitter">
   </a>
 
+
 </div>
 
 # 目次
@@ -24,7 +25,7 @@
 - [コードフォルダの目次](#コードフォルダの目次)  
 
 
-※「はじめに」と「プログラミングをする上で大事なこととは」は[YouTube](https://gist.github.com/kudtk/62c8c7b2f2181141ee51d5cfd4670ccd)にて解説動画を出しています。  
+※「はじめに」と「プログラミングをする上で大事なこととは」は[YouTube](https://youtu.be/6KXUEC4foUE)にて解説動画を出しています。  
 
 -----
 
@@ -96,6 +97,7 @@
 |:----:|:--------:|-----|
 |**Python<br>C<br>Unity**|***Visual Stadio Code***|最高のプログラミングソフトウェア(エディタ)。*C++*, *python*をはじめ、*php*, *java*, *etc*…といった様々な言語を扱える優秀なソフトです。<br>(内部で ***Arduino IDE***を介して)**Arduino**をプログラムすることができます。<br>**Raspberry Pi**も*SSH経由*でプログラムすることができます。(講習会ではこの機能は使いません)|
 ||***Visual Studio***|Visual Studio Codeと同様にプログラミングができますが、こちらは統合開発環境とよばれるソフトです。Unity、C/C++やpythonなどほかの言語も扱えます。<br>(容量も大きいので、講習会では使用しません)|
+||***Repl.it***|これはソフトではなくウェブサイトなのですが、あらかじめセットアップが行われているため、初心者に扱いやすいプログラミングプラットフォームになっています。|
 |**Arduino**|***Arduino IDE***|**Arduino**をプログラミングするための定番ソフトウェア。今回の講習会ではこのソフトを内部処理のためだけに使います。|
 |**Raspberry Pi**|***vim***|これはソフトではなく、エディタなのですが、プログラミングのためのファイル編集ができます。これはターミナル(黒いコマンド入力の画面)で使用します。今回はこれは使用しません。
 ||***Thonny***|プログラミング初心者の方にとって使いやすいコーディングソフト。セットアップされたラズパイにはすでに入っています。|
@@ -110,6 +112,8 @@
 [Visual Studio CodeでPythonのプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/python_amateur)   
 
 [Visual Studio CodeとUnityでゲームをつくろう！](http://kuclubdtk.hateblo.jp/entry/unity_amateur)  
+
+[Repl.it でプログラミングをしよう！(現在リンクは無効となっています。)]()
 
 -----
 

@@ -1,1 +1,83 @@
-<mxfile host="Electron" modified="2020-04-20T13:16:08.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/12.9.13 Chrome/80.0.3987.163 Electron/8.2.1 Safari/537.36" etag="kJJJy5E23YqRBKTxlOVd" version="12.9.13" type="device"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vptc5s4EP41mrn74BtAgOEjOHZ7ba7Tm/SS6UfFKJhGIBfk2O6vP0lIvBhiO3FxJmm/JNLqBe0+q312lQA4STfvcrRc/EMjTIBlRBsAL4BlOf6Y/xSCrRLYShDnSVSKzFpwlfzASmgo6SqJcNGayCglLFm2hXOaZXjOWjKU53TdnnZHSfurSxTjjuBqjkhXepNEbFFKPWtcy9/jJF7oL5uuX46kSE9WmhQLFNF1QwSnAE5ySlnZSjcTTITttF1u/t7ekMt7992Hf4vv6L/w45dP16Nys9lTllQq5Dhjz946+/CN2df38dePH5b+bL65vkRkpHR9QGSl7KV0ZVttwJyusgiLTQwAwwVLCW+avPkNM7ZVgKMVo1xEc7agMc0QuaR0qebd0Yypaabo4ywKBLC8f0vo/L4UzRJC1Dd4T833eK9gOb2vsBMbVECIyQTdYhKi+X0sDzqhhOZ8KKMZFltF3BmULvXhprU0LPUV83b85YCx1byCrvI53mNh01VOj/IYs30TYeVT/C5immKWb/nCHBPEkof28ZC6FXE1r0aeNxT4T3AEfV0bnnDFj8z2uIOAYr1IGL5aImmCNQ8gbRdpQs91C2OCikIBdwBXdRycM7x5BjJdO+pdtKYqnunbva6Dg6lli0ZgsI2BLK/1alj+E+2YvenIyrfbF7P36vVc0QY6g7s+PNb1/Zd0fU0F+4Lg2za/86Lm73LQV54w9CFwKWJ924iIJHHG23NuM8wDfygiRsLpP1ADaRJFMtDnuEh+oFu5n0BsSZOMSWWcEDgX+0KOyk3U4jojaEK1x7UejUUj4y/TbkUjZYujLa+2/ix0aezrt1fQu7sCsw5S1YFOoA3YAc8BUxf4ExAEohEGwDPAFALPBF4I4KxLKAua3q6Kw2TSogfBLDOUJkQY7j0mD1ig3kM5HQfp4R3+ySSLec+te1/kLR7ZQ1KR1aYic9zDRUYPF3lDcVEZCXZCoUv4Z8MoeWjh5n5ficRX2nt0p5AIgFDJRelSmg1CYT5+ewrKib8zICdP+pes8oSjZRkZXj++LqUZLaS/WGXKYMjTFBJ+cRbTXm6qMZJkeKTNKEd9MaoV4a1Y/p46wHNA4MhGAPxQua/vyIYFvImWzKSvOyA05GQDBLYaCmaP34NgrNf7smGITZWZb/PqHErCgZS219K3no/5L52Q6Yy9eQmaMAcXwB//sdVgTivo/1T+4Vs9PrSLGzfuUjS5+RAhmNA4R6mgJZwnXA8Rqtpjn+uBQzAPhpXRxqoPKvusUB2Ruv2uX0/LIo1js0j3xCyyP5epSFH5nLvjS6UCalHz+ePAPlVfb1Qq2NnoZ2VK0Drsqq+xyoCnPlv0wwUtpwUXhGeGy3ujcJ1aavfDZbs7LG6eFy6zW0Ry7rVBGEoS5g2P8zA/1EC1yVCMaz0WtZqUa56zRIDdiu/XKxGUwnzj7JllQ0+1cJS31kVB6+MD1AqDubTdfvLozSLH58wiof02Y70OigdTtzNxuOU8M3d78WSgWxG+mSfK0vmf8ERpqi+e+kZp7iwZ7pES9v2V8zdlnUpZgp92OeuIF65XTF023MnGeqjLPydz6Y1/XeYappyB3oFy5ljmeum6yO4+6D/yx+VXR1y20Q99TVy2fslVxh//FOJy+vY8hcR4t/4nonJ6/Z9YcPo/</diagram></mxfile>
+<mxfile host="localhost" modified="2020-05-16T04:15:50.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.45.1 Chrome/78.0.3904.130 Electron/7.2.4 Safari/537.36" etag="F2bvXTSAlYlUuboPCKzA" version="13.0.9">
+    <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+        <mxGraphModel dx="380" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-16" target="nJjt4VkgYKJp9FcxVLal-13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-10" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="110" y="20" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-21" value="No" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-13" target="nJjt4VkgYKJp9FcxVLal-19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-13" target="nJjt4VkgYKJp9FcxVLal-15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-29" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nJjt4VkgYKJp9FcxVLal-27" vertex="1" connectable="0">
+                    <mxGeometry x="-0.14" y="9" relative="1" as="geometry">
+                        <mxPoint x="-9" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-13" value="5未満か?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="120" y="170" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-15" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;入力された数値は5未満です。&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="110" y="290" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-16" value="数字(yの値)を入力" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="100" y="90" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-17" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-10" target="nJjt4VkgYKJp9FcxVLal-16" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="170" y="60" as="sourcePoint"/>
+                        <mxPoint x="170" y="170" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-33" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="325" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-39" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-19" value="5以上10未満か?" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="270" y="170" width="110" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-33" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span&gt;入力された値は5以上10未満&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="230" y="290" width="186" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-19" target="nJjt4VkgYKJp9FcxVLal-33" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="325" y="250" as="sourcePoint"/>
+                        <mxPoint x="325" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-36" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nJjt4VkgYKJp9FcxVLal-34" vertex="1" connectable="0">
+                    <mxGeometry x="-0.14" y="11" relative="1" as="geometry">
+                        <mxPoint x="-11" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-39" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span&gt;入力された値は10以上です。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+                    <mxGeometry x="430" y="190" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-40" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nJjt4VkgYKJp9FcxVLal-19" target="nJjt4VkgYKJp9FcxVLal-39" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="210" as="sourcePoint"/>
+                        <mxPoint x="460" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="nJjt4VkgYKJp9FcxVLal-45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nJjt4VkgYKJp9FcxVLal-40" vertex="1" connectable="0">
+                    <mxGeometry x="-0.416" y="7" relative="1" as="geometry">
+                        <mxPoint x="5" y="7" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
