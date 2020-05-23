@@ -95,9 +95,9 @@
 
 |コト/モノ|ソフト|ソフトの概要|
 |:----:|:--------:|-----|
-|**Python<br>C<br>Unity**|***Visual Stadio Code***|最高のプログラミングソフトウェア(エディタ)。*C++*, *python*をはじめ、*php*, *java*, *etc*…といった様々な言語を扱える優秀なソフトです。<br>(内部で ***Arduino IDE***を介して)**Arduino**をプログラムすることができます。<br>**Raspberry Pi**も*SSH経由*でプログラムすることができます。(講習会ではこの機能は使いません)|
+|**Python<br>C<br>Unity**|***Visual Studio Code***|最高のプログラミングソフトウェア(エディタ)。*C++*, *python*をはじめ、*php*, *java*, *etc*…といった様々な言語を扱える優秀なソフトです。<br>(内部で ***Arduino IDE***を介して)**Arduino**をプログラムすることができます。<br>**Raspberry Pi**も*SSH経由*でプログラムすることができます。(講習会ではこの機能は使いません)|
 ||***Visual Studio***|Visual Studio Codeと同様にプログラミングができますが、こちらは統合開発環境とよばれるソフトです。Unity、C/C++やpythonなどほかの言語も扱えます。<br>(容量も大きいので、講習会では使用しません)|
-||***Repl.it***|これはソフトではなくウェブサイトなのですが、あらかじめセットアップが行われているため、初心者に扱いやすいプログラミングプラットフォームになっています。|
+|**Python<br>C<br>他|***Repl.it***|これはソフトではなくウェブサイトなのですが、あらかじめセットアップが行われているため、初心者に扱いやすいプログラミングプラットフォームになっています。|
 |**Arduino**|***Arduino IDE***|**Arduino**をプログラミングするための定番ソフトウェア。今回の講習会ではこのソフトを内部処理のためだけに使います。|
 |**Raspberry Pi**|***vim***|これはソフトではなく、エディタなのですが、プログラミングのためのファイル編集ができます。これはターミナル(黒いコマンド入力の画面)で使用します。今回はこれは使用しません。
 ||***Thonny***|プログラミング初心者の方にとって使いやすいコーディングソフト。セットアップされたラズパイにはすでに入っています。|
@@ -118,7 +118,7 @@
 -----
 
 # コードフォルダの目次
-## 説明　:book:
+## 説明  :book:
 この講習会資料では以下のようにフォルダーが分けられています。    
 
 言語:  
@@ -197,11 +197,11 @@ work0 \~ work3, work6はそれぞれcode0 \~ code3, code6の課題ファイル�
 
 # 編集  
 
-総合編集: **[Yusuke](https://github.com/Kuclubdtk-Lecture)**  
+総合編集: **[Yusuke](https://github.com/yusuke-1105)**  
   
-Arduino: **カルロス**, **[Yusuke](https://github.com/Kuclubdtk-Lecture)**  
-Raspberry Pi: **[Yusuke](https://github.com/Kuclubdtk-Lecture)**  
-Python: **[Yusuke](https://github.com/Kuclubdtk-Lecture)**  
+Arduino: **カルロス**, **[Yusuke](https://github.com/yusuke-1105)**  
+Raspberry Pi: **[Yusuke](https://github.com/yusuke-1105)**  
+Python: **[Yusuke](https://github.com/yusuke-1105)**  
 C++: **Horiuchi**, **[Mikawa](https://github.com/ryoto1038)**,  **Inaba**  
 Unity: **DAO**  
 

@@ -253,6 +253,12 @@ program2 → work2
 ※**プログラムはたくさんの書き方があります。ですので、workファイルに書いてある私の解答と違うプログラムを書いていたとしても、意図した通りに動いていれば、それは正しいコードと言えます。**  
 
 
------
+-----  
+
 参照:  
-[Python ドキュメント](https://docs.python.org/ja/3/reference/datamodel.html#objects-values-and-types)
+[Python ドキュメント](https://docs.python.org/ja/3/reference/datamodel.html#objects-values-and-types)  
+
+-----  
+
+編集:
+[Yusuke](https://github.com/yusuke-1105)

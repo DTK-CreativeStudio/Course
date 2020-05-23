@@ -404,7 +404,7 @@ PytyhonはAI系でよく使用されていますが、これまでで学習し�
 予定では秋学期にライブラリやAPIを使ったアプリケーションの作成方法を紹介する予定ですので、それまでにPythonを復習しておいてください。
 
 -----  
-編集: **[Yusuke](https://github.com/Kuclubdtk-Lecture)**  
+編集: **[Yusuke](https://github.com/yusuke-1105)**  
 
 -----
 

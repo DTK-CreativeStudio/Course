@@ -36,4 +36,4 @@
 ---
 
 ## 編集:  
-Yusuke
+[Yusuke](https://github.com/yusuke-1105)
