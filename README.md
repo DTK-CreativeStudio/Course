@@ -95,9 +95,9 @@
 
 |コト/モノ|ソフト|ソフトの概要|
 |:----:|:--------:|-----|
-|**Python<br>C<br>Unity**|***Visual Studio Code***|最高のプログラミングソフトウェア(エディタ)。*C++*, *python*をはじめ、*php*, *java*, *etc*…といった様々な言語を扱える優秀なソフトです。<br>(内部で ***Arduino IDE***を介して)**Arduino**をプログラムすることができます。<br>**Raspberry Pi**も*SSH経由*でプログラムすることができます。(講習会ではこの機能は使いません)|
+|**Python<br>C<br>Unity<br>他**|***Visual Studio Code***|最高のプログラミングソフトウェア(エディタ)。*C++*, *python*をはじめ、*php*, *java*, *etc*…といった様々な言語を扱える優秀なソフトです。<br>(内部で ***Arduino IDE***を介して)**Arduino**をプログラムすることができます。<br>**Raspberry Pi**も*SSH経由*でプログラムすることができます。(講習会ではこの機能は使いません)|
 ||***Visual Studio***|Visual Studio Codeと同様にプログラミングができますが、こちらは統合開発環境とよばれるソフトです。Unity、C/C++やpythonなどほかの言語も扱えます。<br>(容量も大きいので、講習会では使用しません)|
-|**Python<br>C<br>他|***Repl.it***|これはソフトではなくウェブサイトなのですが、あらかじめセットアップが行われているため、初心者に扱いやすいプログラミングプラットフォームになっています。|
+|**Python<br>C<br>他**|***Repl.it***|これはソフトではなくウェブサイトなのですが、あらかじめセットアップが行われているため、初心者に扱いやすいプログラミングプラットフォームになっています。|
 |**Arduino**|***Arduino IDE***|**Arduino**をプログラミングするための定番ソフトウェア。今回の講習会ではこのソフトを内部処理のためだけに使います。|
 |**Raspberry Pi**|***vim***|これはソフトではなく、エディタなのですが、プログラミングのためのファイル編集ができます。これはターミナル(黒いコマンド入力の画面)で使用します。今回はこれは使用しません。
 ||***Thonny***|プログラミング初心者の方にとって使いやすいコーディングソフト。セットアップされたラズパイにはすでに入っています。|
@@ -113,7 +113,7 @@
 
 [Visual Studio CodeとUnityでゲームをつくろう！](http://kuclubdtk.hateblo.jp/entry/unity_amateur)  
 
-[Repl.it でプログラミングをしよう！(現在リンクは無効となっています。)]()
+[Repl.it でプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/repl.it)
 
 -----
 
@@ -193,7 +193,13 @@ work0 \~ work3, work6はそれぞれcode0 \~ code3, code6の課題ファイル�
 
 [GitHub-Cheat-Sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md)  
 
------
+-----  
+
+# YouTube  
+
+[電気通信工学研究会](https://www.youtube.com/channel/UCOgOnA8s-EwlfLQ5gLf2Zmg)  
+
+-----  
 
 # 編集  
 

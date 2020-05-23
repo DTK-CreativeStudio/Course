@@ -1,7 +1,7 @@
 # **解説**
 ## 目次
 - [if(条件分岐)](#if)  
-- [while](#while)  
+- [whileとfor](#whileとfor)  
   - [while True](#program4_2)  
 - [if break](#program4_2)  
 - [if continue](#program4_2)  
@@ -36,8 +36,8 @@
 
 
 ## program3   
-### while  
-ここでは「**while文**」(「繰り返し処理」)というものを扱います。
+### whileとfor  
+ここでは「**while文**」「**for文**」(「繰り返し処理」)というものを扱います。
 これは同じ処理を真である限り続けるというものです。
 
 このように書きます。  

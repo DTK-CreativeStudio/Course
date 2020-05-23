@@ -1,6 +1,14 @@
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku)  
 
-※レクチャーに入る前に[Visual Studio Code でPythonのプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/python_amateur)の3番までの作業を完了させておいてください。
+※レクチャーに入る前にプログラミング環境を整えておいてください。  
+2通りの方法があります。  
+1. **おすすめ**  
+[Visual Studio Code でPythonのプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/python_amateur)  
+(3番までの作業を完了させておいてください)  
+
+2. **パソコン初心者の方や、↑のやり方でできなかったという方**  
+[Repl.it でプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/repl.it)  
+(「Python編」のセットアップを完了させておいてください)  
 
 # 目次
 - [はじめに](#はじめに)  

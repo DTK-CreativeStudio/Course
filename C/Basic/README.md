@@ -4,7 +4,7 @@
 - [printf](#printf)  
 - [scanf](#scanf)  
 - [if](#if)  
-- [while](#while)  
+- [whileとfor](#whileとfor)  
 - [無限ループ](#無限ループ)  
 - [while (常に真の時)](#program4_2)  
   - [if break](#program4_2)  
@@ -49,8 +49,8 @@ scanf("%d",a); //これでキーボードから値を入力できるようにな
 
 
 ## program3   
-### while  
-ここでは「**while文**」(「繰り返し処理」)というものを扱います。
+### whileとfor  
+ここでは「**while文**」「**for文**」(「繰り返し処理」)というものを扱います。
 これは同じ処理を真である限り続けるというものです。
 
 このように書きます。  
