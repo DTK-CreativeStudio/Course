@@ -16,5 +16,5 @@ data = cursor.fetchall()
 conn.close()
 
 print('名前|年齢'.rjust(17))
-for i in range(len(data)):
-    print(str(data[i]['NAME']).rjust(16) + '|' + str(data[i]['AGE']).rjust(3))
+for d in data:
+    print(str(d['NAME']).rjust(16) + '|' + str(d['AGE']).rjust(3))
