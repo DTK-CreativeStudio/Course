@@ -1,6 +1,6 @@
 # Object Detection (物体検出)  
 これは<b>KC3 2020</b>の勉強会資料の手引きです。  
-詳しくは(元レポジトリ)[https://github.com/yusuke-1105/Object_Detection]見てください。  
+詳しくは[元レポジトリ](https://github.com/yusuke-1105/Object_Detection)見てください。  
 
 This document is also available in [English](https://github.com/yusuke-1105/Object_Detection/blob/master/README_EN.md).   
 [![Apache License Version 2.0](https://img.shields.io/badge/license-Apache_2.0-green.svg)](LICENSE)
