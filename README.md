@@ -107,13 +107,13 @@
 ## コーディングソフトの導入
 こちらのサイトに上で紹介したソフトの導入手順が書いてあるので、そちらをご覧ください。  
 
-[Visual Studio CodeでC/C++のプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/2020/04/11/114504)
+[Visual Studio CodeでC/C++のプログラミングをしよう！](https://kuclubdtk.hateblo.jp/entry/2020/04/11/114504)
 
-[Visual Studio CodeでPythonのプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/python_amateur)   
+[Visual Studio CodeでPythonのプログラミングをしよう！](https://kuclubdtk.hateblo.jp/entry/python_amateur)   
 
-[Visual Studio CodeとUnityでゲームをつくろう！](http://kuclubdtk.hateblo.jp/entry/unity_amateur)  
+[Visual Studio CodeとUnityでゲームをつくろう！](https://kuclubdtk.hateblo.jp/entry/unity_amateur)  
 
-[Repl.it でプログラミングをしよう！](http://kuclubdtk.hateblo.jp/entry/repl.it)
+[Repl.it でプログラミングをしよう！](https://kuclubdtk.hateblo.jp/entry/repl.it_amateur)
 
 -----
 
@@ -172,7 +172,7 @@ work0 \~ work3, work6はそれぞれcode0 \~ code3, code6の課題ファイル�
 -----  
 # ライセンス  
 
-ここに載っているコード等はすべて[MIT LICENSE](https://github.com/DTK-CreativeStudio/Course/blob/master/LICENSE)の下保護されています。
+ここに載っているコード等はすべて[Apache License 2.0](https://github.com/DTK-CreativeStudio/Course/blob/master/LICENSE)の下保護されています。
 
 -----
 # 参照  
