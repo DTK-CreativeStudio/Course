@@ -26,6 +26,7 @@
 
 
 ※「はじめに」と「プログラミングをする上で大事なこととは」は[YouTube](https://youtu.be/6KXUEC4foUE)にて解説動画を出しています。  
+[![](https://github.com/DTK-CreativeStudio/Course/blob/master/image/basic.png)](http://www.youtube.com/watch?v=6KXUEC4foUE "")  
 
 -----
 
