@@ -1,6 +1,7 @@
 
 # arduino講習会2021(資料置き場) 
-こちらは、arduino講習会2021で使用する資料のリンクを置いてあるディレクトリです。受講生は動画およびパワーポイントの資料を用いて学習してください。
+こちらは、arduino講習会2021で使用する資料のリンクを置いてあるディレクトリです。受講生は動画およびパワーポイントの資料を用いて学習してください。  
+  
 資料のリンク:hhttps://drive.google.com/drive/folders/1dxMYCaR_7D-t12dqXVbvZg2htgQQsHGm?usp=sharing  
 動画のリンク:https://youtube.com/playlist?list=PLBOs6NGusnU13gaSl3YJowh3D-BIG3GS3  
 講習会のリンク:https://dentsuken.slack.com/archives/C026B9Q0GAU
